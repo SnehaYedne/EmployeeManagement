@@ -6,7 +6,7 @@ import jdk.nashorn.internal.objects.annotations.Setter;
 import javax.persistence.*;
 
 @Entity
-@Table(name = "Employee1")
+@Table(name = "Employee")
 public class Employee {
 
     @Id
